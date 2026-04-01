@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "primeiro-post",
+    "titulo": "Meu Primeiro Post",
+    "descricao": "Este é o primeiro artigo do blog",
+    "autor": "João",
+    "data": "2026-03-31",
+    "conteudo": "Conteúdo completo do artigo aqui..."
+  },
+  {
+    "slug": "aprendendo-nextjs",
+    "titulo": "Aprendendo Next.js",
+    "descricao": "Guia básico de Next.js",
+    "autor": "Maria",
+    "data": "2026-03-30",
+    "conteudo": "Next.js é um framework incrível..."
+  }
+]
